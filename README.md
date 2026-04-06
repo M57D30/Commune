@@ -1,4 +1,4 @@
-# Breadit — Full-Stack Reddit Clone
+# Commune — Full-Stack Reddit Clone
 
 A modern Reddit-like social discussion platform built with **Next.js 14**, following the popular "Build and Deploy a Fullstack Reddit Clone" tutorial by Josh tried coding.
 
